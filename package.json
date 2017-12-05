@@ -1,0 +1,24 @@
+{
+  "name": "node-auto-sync",
+  "version": "1.0.0",
+  "description": "auto sync node pakckage from git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtx1130/node-auto-sync.git"
+  },
+  "keywords": [
+    "node",
+    "auto",
+    "sync"
+  ],
+  "author": "xtx1130@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xtx1130/node-auto-sync/issues"
+  },
+  "homepage": "https://github.com/xtx1130/node-auto-sync#readme"
+}
