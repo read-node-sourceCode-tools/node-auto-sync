@@ -7,7 +7,8 @@
     <key>ProgramArguments</key>
     <array>
         <string>/bin/sh</string>
-        <string>{{path}}/syncNode.sh</string>
+        <string>{{path}}/sh/syncNode.sh</string>
+        <string>{{nodepath}}</string>
     </array>
     <key>StartCalendarInterval</key>
     <array>
