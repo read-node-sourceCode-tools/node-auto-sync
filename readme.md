@@ -1,5 +1,5 @@
 ## node-auto-sync
->after fork the node repo, make sync from the upstream automatically
+>after fork the node repo, make sync from the upstream automatically. [中文文档](https://github.com/xtx1130/node-auto-sync/blob/master/readme.md)
 
 ### usage
 
