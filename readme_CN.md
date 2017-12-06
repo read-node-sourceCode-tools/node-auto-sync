@@ -13,7 +13,7 @@ $ git clone https://github.com/xtx1130/node-auto-sync.git
 $ cd node-auto-sync
 $ npm run start [your local git repo]
 ```
-例: `npm run start /Users/xtx/Desktop/workspace/node`
+例: `npm run start /Users/xtx/Desktop/workspace/node`  
 关闭自动同步功能：
 ```shell
 $ cd node-auto-sync
