@@ -4,9 +4,13 @@
   "description": "auto sync node pakckage from git",
   "main": "index.js",
   "scripts": {
-    "start": "echo \"Error: no test specified\" && exit 1",
-    "stop": ""
+    "start": "sudo node index.js",
+    "stop": "sh ./sh/delete.sh"
   },
+  "files": [
+    "sh",
+    "template"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xtx1130/node-auto-sync.git"
