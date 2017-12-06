@@ -1,5 +1,5 @@
 ## node-auto-sync
->After fork the node repo, make sync from the upstream automatically, this package will make your fork repo sync from node official repo at Monday to Friday 18 o'clock. [中文文档](https://github.com/xtx1130/node-auto-sync/blob/master/readme.md)
+>After fork the node repo, make sync from the upstream automatically, this package will make your fork repo sync from node official repo at Monday to Friday 18 o'clock. [中文文档](https://github.com/xtx1130/node-auto-sync/blob/master/readme_CN.md)
 
 ### usage
 
