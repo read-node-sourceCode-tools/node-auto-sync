@@ -3,7 +3,8 @@
 
 ### usage
 
-Before use this tool, please fork & checkout the node repo. Do as what the node [CONTRIBUTING.md](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#setting-up-your-local-environment) said.
+Before use this tool, please fork、clone、remote the node repo. Do as what the node [CONTRIBUTING.md](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#setting-up-your-local-environment) said.  
+install node-auto-sync:
 ```shell
 $ git clone https://github.com/xtx1130/node-auto-sync.git
 ```
